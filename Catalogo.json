@@ -1,0 +1,432 @@
+{
+	"Celular": [
+		{
+			"Nombre": "iPhone X Gris Espacial",
+			"Precio": "$23,499.00",
+			"Fabricante": "Apple",
+			"Almacenamiento": "256 GB",
+			"Caracteristicas": [
+				"Pantalla Super Retina Display de 5.8” con tecnología OLED",
+				"Cámaras principales de 12 MP con gran angular y teleobjetivo /Frontal TrueDepth de 7 MP",
+				"Chip A11 Bionic de 64 bits/ Coprocesador de movimiento M1",
+				"Sistema operativo iOS 11",
+				"Reconocimiento facial FaceID",
+				"Sistema operativo iOS 11",
+				"Resistente a salpicaduras, agua y polvo (certificación IP67)",
+				"Carga inalámbrica"
+			]
+		},
+		{
+			"Nombre": "iPhone 8 Plus Gris Espacial",
+			"Precio": "$18,999.00",
+			"Fabricante": "Apple",
+			"Almacenamiento": "256 GB",
+			"Caracteristicas": [
+				"Pantalla retina HD de 5.5",
+				"Cámaras principales de 12 MP con gran angular y teleobjetivo",
+				"Frontal FaceTime HD de 7 MP",
+				"Chip A11 Bionic de 64 bits",
+				"Coprocesador de movimiento M1",
+				"Sistema operativo iOS 11",
+				"Tecnologías 3D Touch",
+				"sensor de huellas Touch ID",
+				"certificación IP67",
+				"Carga inalámbrica"
+			]
+		},
+		{
+			"Nombre": "iPhone 7, Negro Mate",
+			"Precio": "$12,999.00",
+			"Fabricante": "Apple",
+			"Almacenamiento": "128 GB",
+			"Caracteristicas": [
+				"Pantalla multitáctil de 4.7'",
+				"Cámara Facetime de 7 MP",
+				"Sistema Operativo IOS 10",
+				"Procesador chip A10",
+				"Cámara iSight con FaceTime HD"
+			]
+		},
+		{
+			"Nombre": "iPhone 7, Oro",
+			"Precio": "$15,499.00",
+			"Fabricante": "Apple",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla multitáctil de 4.7'",
+				"Cámara Facetime de 7 MP",
+				"Sistema Operativo IOS 10",
+				"Procesador chip A10",
+				"Cámara iSight con FaceTime HD"
+			]
+		},
+		{
+			"Nombre": "iPhone 6s-Oro Rosa",
+			"Precio": "$10,499.00",
+			"Fabricante": "Apple",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla multitáctil de 4.7'",
+				"3D Touch.",
+				"Cámara de 12 MP Video 4K.",
+				"Sistema Operativo IOS 9.",
+				"Procesador chip A9.",
+				"Cámara iSight con FaceTime HD"
+			]
+		},
+		{
+			"Nombre": "Sony Xperia X 32GB - Blanco",
+			"Precio": "$4,399.00",
+			"Fabricante": "Sony",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Conectividad 4G.",
+				"Procesador Qualcomm Snapdragon 820 Quad-core de 2.15GHz.",
+				"Sistema Operativo Android Marshmallow versión 6.0.",
+				"Pantalla HD 5.0'' de 1080 x 1920 p.",
+				"Cámara delantera 13MP.",
+				"Cámara trasera 23MP.",
+				"Memoria RAM 3GB.",
+				"Memoria interna 32GB."
+			]
+		},
+		{
+			"Nombre": "Sony Xperia Xa 1 Ultra",
+			"Precio": "$5,949.00",
+			"Fabricante": "Sony",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla 6” Full HD",
+				"Cámara delantera de 16 MP",
+				"Cámara trasera 23 MP sensor Exmor RS™ for mobile",
+				"Procesador Octa-core",
+				"4 GB RAM",
+				"32 GB ROM",
+				"Sistema operativo Google Android™ 7.0",
+				"4g LTE",
+				"Batería 2700mAh"
+			]
+		},
+		{
+			"Nombre": "Sony Xperia L1 4G",
+			"Precio": "$3,449.00",
+			"Fabricante": "Sony",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"Pantalla 5.5'",
+				"4G lte",
+				"2 GB de RAM",
+				"16 GB de memoria interna eMMC1",
+				"Sistema operativo Google Android N",
+				"Procesador MediaTek Quad Core a bits MT6737T (1.45 GHzx4)",
+				"Batería 2620 mAh",
+				"Cámara trasera 13 MP Enfoque automático Lentes F2.2",
+				"Cámara frontal 5 MP"
+			]
+		},
+		{
+			"Nombre": "Sony Xperia XZ1 Compact",
+			"Precio": "$8,828.00",
+			"Fabricante": "Sony",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Cámara Motion Eye de 19 MP con súper cámara lenta",
+				"Audio de alta resolución y altavoces en estéreo",
+				"Qualcomm Snapdragon 835 para plataforma móvil",
+				"Nuevo 3D Creator",
+				"CAPACIDAD PARA SIM: SIM sencilla, Nano SIM",
+				"4 GB de RAM, 32 GB UFS de memoria interna3, Soporte microSDXC (hasta 256 GB)"
+			]
+		},
+		{
+			"Nombre": "Sony Xperia Z5",
+			"Precio": "$5,839.00",
+			"Fabricante": "Sony",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla 5.2 pulgadas",
+				"Resolución 4K 2106 x 3840",
+				"Android Lollipop 5.1.1",
+				"Procesador Quad-core 1.5 GHz Cortex-A53 y Quad-core 2 GHz Cortex-A57",
+				"Memoria Ram: 3GB",
+				"Cámara de 23 MP"
+			]
+		},
+		{
+			"Nombre": "Xiaomi Redmi 5 Plus",
+			"Precio": "$4,829.00",
+			"Fabricante": "Xiaomi",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"PANTALLA 5,99' 2.160 x 1.080 píxeles",
+				"DUAL SIM",
+				"PROCESADOR Qualcomm Snapdragon 625",
+				"NÚCLEOS 8 x 2 GHz",
+				"RAM 4 GB",
+				"ALMACENAMIENTO 64 GB (+ microSD de hasta 128 GB)",
+				"VERSIÓN SOFTWARE Android 7.1.2 Nougat bajo capa MIUI 9"
+			]
+		},
+		{
+			"Nombre": "Xiaomi Mi A1 Dual Sim",
+			"Precio": "$4,609.00",
+			"Fabricante": "Xiaomi",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla 5.5'",
+				"Cuerpo metálico",
+				"4g LTE",
+				"Cámara dual 12+12 MP",
+				"Cámara frontal 5MP",
+				"4GB de RAM"
+			]
+		},
+		{
+			"Nombre": "Xiaomi Redmi Note 5a Prime",
+			"Precio": "$6,609.00",
+			"Fabricante": "Xiaomi",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla 5.5' IPS",
+				"Sistema operativo: Android 7.0 (Nougat)",
+				"Procesador: Octa Core",
+				"Qualcomm Snapdragon 435 ARM Cortex-A53 a 1.4 GHz",
+				"RAM:3 GB",
+				"Memoria interna:32 GB"
+			]
+		},
+		{
+			"Nombre": "Xiaomi Mi6 Dual Snapdragon",
+			"Precio": "$9,269.00",
+			"Fabricante": "Xiaomi",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla de 5.15' con brillo reducido",
+				"Sensor de Huellas",
+				"Snapdragon 835",
+				"Tecnología de procesador 10nm",
+				"12MP + 12MP Cámara dual con zoom óptico",
+				"Estabilidad de imagen óptica de 4 ejes (OIS)"
+			]
+		},
+		{
+			"Nombre": "Xiaomi Redmi 4x Dual Sim",
+			"Precio": "$3,099.00",
+			"Fabricante": "Xiaomi",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"3GB RAM",
+				"32GB, microSD",
+				"Cámara  trasera 13 MP",
+				"Cámara frontal 5MP con embellecedor",
+				"Batería 4100mAh",
+				"Sensor de huellas"
+			]
+		},
+		{
+			"Nombre": "Huawei Mate 10 Lite",
+			"Precio": "$5,849.00",
+			"Fabricante": "Huawei",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla 5.9 pulgadas",
+				"Dual sim",
+				"LTE 4G",
+				"Android 8.0",
+				"ROM: 64GB",
+				"RAM: 4GB"
+			]
+		},
+		{
+			"Nombre": "Huawei P9 Lite",
+			"Precio": "$3,249.00",
+			"Fabricante": "Huawei",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"4GB RAM",
+				"Cámara de 13MP",
+				"Lector de Huella Digital",
+				"Liberado"
+			]
+		},
+		{
+			"Nombre": "Huawei Y5 2017Lte",
+			"Precio": "$2,299.00",
+			"Fabricante": "Huawei",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"Pantalla HD de 5,0 pulgadas",
+				"Qual-core CPU (4 * 1.4GHz Cortex-A53)",
+				"Sistema Operativo Android 6.0+EMUI 4.1",
+				"Memoria 2GB de RAM + 16GB de ROM",
+				"Conectividad 4G LTE",
+				"Cámara trasera: 8MP"
+			]
+		},
+		{
+			"Nombre": "Huawei P Smart",
+			"Precio": "$4,550.00",
+			"Fabricante": "Huawei",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla: 5.65' FHD+ (2160 x 1080)",
+				"Dual SIm",
+				"Octa core, 2.36 GHz x 4 + 1.7 GHz x 4",
+				"Sistema Operativo: Android O + EMUI 8.0",
+				"Memoria: 3 GB + 32 GB*",
+				"Red 4G LTE"
+			]
+		},
+		{
+			"Nombre": "Huawei P20",
+			"Precio": "$14,399.00",
+			"Fabricante": "Huawei",
+			"Almacenamiento": "128 GB",
+			"Caracteristicas": [
+				"Pantalla 5,8 pulgadas",
+				"Resolucion Full HD de 1080 x 2240",
+				"Android 8.1 (Oreo)",
+				"Hisilicon Kirin 970",
+				"Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+				"Memoria RAM: 4GB"
+			]
+		},
+		{
+			"Nombre": "Motorola Moto E4",
+			"Precio": "$2,199.00",
+			"Fabricante": "Motorola",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"Pantalla IPS en HD de 5",
+				"Memoria de 16GB y RAM de 2GB",
+				"Conectividad 4G",
+				"Android 7.1 Nougat",
+				"LECTOR DE HUELLA"
+			]
+		},
+		{
+			"Nombre": "Motorola Moto G5 Plus",
+			"Precio": "$4,399.00",
+			"Fabricante": "Motorola",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Memoria interna 32GB",
+				"RAM 2GB",
+				"Pantalla 5.2' FULL HD 1080p",
+				"Color Gris Lunar",
+				"Cámara 12MPX",
+				"Lector de Huella"
+			]
+		},
+		{
+			"Nombre": "Motorola Moto G4 LTE",
+			"Precio": "$3,359.00",
+			"Fabricante": "Motorola",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"PANTALLA 5.5” FULL HD",
+				"CONECTIVIDAD 4G",
+				"MEMORIA RAM 2 GB",
+				"MEMORIA INTERNA DE 16 GB (ROM)",
+				"SISTEMA OPERATIVO ANDROID™ 6.0.1, MARSHMALLOW"
+			]
+		},
+		{
+			"Nombre": "Motorola Moto Z Play XT",
+			"Precio": "$4,479.00",
+			"Fabricante": "Motorola",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Cámara trasera de 16 mp.",
+				"Cámara frontal de 5 mp.",
+				"Memoria interna 32 GB.",
+				"Memoria expandible: hasta 2 TB.",
+				"Pantalla de 5.5 pulgadas.",
+				"3 GB  RAM."
+			]
+		},
+		{
+			"Nombre": "Moto Z2 Play",
+			"Precio": "$7,999.00",
+			"Fabricante": "Motorola",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla Oled 5.5' FHD",
+				"Memoria de 64GB + MicroSD",
+				"Memoria RAM de 4GB",
+				"Batería de 3000MAH con carga rápida.",
+				"Nano-protección repelente al agua"
+			]
+		},
+		{
+			"Nombre": "Samsung Galaxy S9+",
+			"Precio": "$16,899.00",
+			"Fabricante": "Samsung",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla de 6.2 pulgadas Super AMOLED.",
+				"Resolución: 2,960 x 1,440 pixeles",
+				"Procesador: Snapdragon 845 de ocho núcleos (cuatro de 2.8GHz y cuatro de 1.7GHz).",
+				"Memoria RAM de 6GB y almacenamiento de 64 GB, expansible hasta 400GB.",
+				"Ranura microSD.",
+				"Batería: 3,500mAh (no removible)."
+			]
+		},
+		{
+			"Nombre": "Samsung Galaxy S8+",
+			"Precio": "$13,499.00",
+			"Fabricante": "Samsung",
+			"Almacenamiento": "64 GB",
+			"Caracteristicas": [
+				"Pantalla Super AMOLED Curva de 6.2”(Resolución QHD de 1440 x 2960 p)",
+				"Procesador Eynox 8895 Octa-Core",
+				"Sistema operativo Android 7.0",
+				"Memoria RAM de 4 GB/ Almacenamiento de 64GB expansible con tarjetas microSD hasta 256 GB.",
+				"Cámara frontal de 8MP Frontal y trasera de 12 MP",
+				"Escáner de Iris y huella dactilar"
+			]
+		},
+		{
+			"Nombre": "Samsung Galaxy J7 Pro",
+			"Precio": "$5,439.00",
+			"Fabricante": "Samsung",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"Pantalla 5.5' FHD sAMOLED",
+				"4G LTE",
+				"Cámara trasera 13 MP + F1.7",
+				"Cámara delantera 13 MP",
+				"RAM 3 GB",
+				"ROM 16 GB expandible hasta 256 GB"
+			]
+		},
+		{
+			"Nombre": "Samsung Galaxy J5 Pro",
+			"Precio": "$4,449.00",
+			"Fabricante": "Samsung",
+			"Almacenamiento": "16 GB",
+			"Caracteristicas": [
+				"Pantalla 5.2' Super AMOLED",
+				"4G LTE",
+				"Cámara Trasera 13 MP",
+				"Cámara frontal 13 MP",
+				"Memoria RAM 2 GB",
+				"Memoria ROM 16GB"
+			]
+		},
+		{
+			"Nombre": "Samsung Galaxy A7",
+			"Precio": "$7,349.00",
+			"Fabricante": "Samsung",
+			"Almacenamiento": "32 GB",
+			"Caracteristicas": [
+				"Pantalla de 5.7'",
+				"32 Gb internos",
+				"3 Gb ram",
+				"Dual sim",
+				"LTE",
+				"Exynos octacore 1.9ghz"
+			]
+		}
+	]
+}
