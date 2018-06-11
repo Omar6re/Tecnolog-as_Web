@@ -1,0 +1,300 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+	line-height: 1.5em;
+	padding-top: 80px;
+}
+ 
+h1 {
+	font-size: 2.3em;
+	line-height: 1.3em;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
+}
+ 
+p {
+	margin: 0 0 1.5em 0;
+}
+ 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+#main-header {
+	background: #333;
+	color: white;
+	height: 80px;
+	
+	width: 100% !important; 
+	left: 0 !important; 
+	top: 0 !important; 
+	position: fixed !important;
+	z-index: 10;
+}	
+
+#main-header a {
+	color: white;
+}
+ 
+#logo-header {
+	float: left !important;
+	padding: 15px 0 0 20px;
+	text-decoration: none;
+}
+#logo-header:hover {
+	color: #0b76a6;
+}
+
+#logo-header .site-name {
+	display: block;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+
+#logo-header .site-desc {
+	display: block;
+	font-weight: 300;
+	font-size: 0.8em;
+	color: #999;
+}
+
+nav.nav {
+	float: right !important;
+}
+nav.nav ul {
+	margin: 0 !important;
+	padding: 0 !important;
+	list-style: none !important;
+	padding-right: 20px !important;
+}
+	
+nav.nav ul li {
+	display: inline-block !important;
+	line-height: 80px !important;
+}
+			
+nav.nav ul li a {
+	display: block !important;
+	padding: 0 10px !important;
+	text-decoration: none !important;
+}
+		
+nav.nav ul li a:hover {
+	background: #0b76a6 !important;
+}
+
+#main-content {
+	background: white;
+	width: 90%;
+	max-width: 800px;
+	margin: 20px auto;
+	box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+ 
+#main-content header,
+#main-content .content {
+	padding: 40px;
+}
+
+#main-footer {
+	background: #333;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
+#main-footer p {
+	margin: 0;
+}
+
+#main-footer a {
+	color: white;
+}
+
+
+* {
+    box-sizing: border-box;
+    font-family: "Function Pro","Helvetica Neue",Arial,sans-serif;
+    font-weight: 700;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.horizontal-menu
+{
+	border-bottom: 1px solid #aaa;
+    background-color: transparent;
+    padding: 0px 0px 0px 5px;
+    border-radius: 0;
+    height: 36px;
+    overflow: hidden;
+    list-style: none;
+    box-sizing: inherit !important;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+
+.horizontal-menu>li {
+    float: left;
+    color: #aaa;
+}
+
+ol 
+{
+	color: #666;
+}
+
+.horizontal-menu li a 
+{
+	color: #000;
+}
+
+.catalogo-titulo
+{
+	font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 22px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    border-bottom: solid 1px #ccc;
+    text-align: left;
+}
+
+#ic
+{
+	font-size: 33px;
+}
+
+.catalogo-busqueda
+{
+	width: 100%;
+	margin-top: 30px;
+}
+
+#contenido-cat
+{
+	float: left;
+	position: relative;
+	text-align: center;
+}
+
+.total-productos
+{
+	width: 25%;
+}
+
+.lista-busqueda
+{
+	width: 41.6667%;
+	padding-left: 30px;
+}
+
+.tipo-vista
+{
+	width: 33.3333%;
+	margi
+}
+
+.col2
+{
+    float: left;
+    width: 16.666%;
+}
+
+#f1
+{
+	text-align: center;
+}
+
+
+.styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+   height: 29px;
+   overflow: hidden;
+   width: 240px;
+}
+
+.styled-select select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 29px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 268px;
+}
+
+.rounded {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+}
+
+.yellow  { background-color: #eec111; }
+
+.column-productos {
+    float: left;
+    width: 33.33%;
+    background-color: #FFFFFF;
+}
+
+.name
+{
+	color: #333;
+    margin-bottom: 12px;
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+.price
+{
+	color: #ea2840;
+	font-size: 16px;
+}
+
+.caract
+{
+	font-size: 12px;
+}
+
+.cat-cel
+{
+	height: auto;
+    width: 100%;
+    max-width: 190px;
+    max-height: 190px;
+    border: 0;
+}
+
+.cat-cel2
+{
+	height: 128px;
+    width: 128px;
+}
+
+#idcel
+{
+	margin-bottom: 40px;
+}
